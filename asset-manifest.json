@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https//scottt242.github.io/PRDIGY_WD_03/static/css/main.7f8517e4.css",
+    "main.js": "/https//scottt242.github.io/PRDIGY_WD_03/static/js/main.ca372767.js",
+    "static/media/1318.jpg": "/https//scottt242.github.io/PRDIGY_WD_03/static/media/1318.7b11863572ca61d652f7.jpg",
+    "index.html": "/https//scottt242.github.io/PRDIGY_WD_03/index.html",
+    "main.7f8517e4.css.map": "/https//scottt242.github.io/PRDIGY_WD_03/static/css/main.7f8517e4.css.map",
+    "main.ca372767.js.map": "/https//scottt242.github.io/PRDIGY_WD_03/static/js/main.ca372767.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f8517e4.css",
+    "static/js/main.ca372767.js"
+  ]
+}
