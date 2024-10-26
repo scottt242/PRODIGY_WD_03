@@ -1,0 +1,18 @@
+.square {
+  border: 10px solid #3d17032e;
+  margin: 0 auto 20px;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  background-color: #ecd08bd9;
+  color: #4a2f22db;
+  font-family: "Henny Penny", system-ui;
+font-weight: 400;
+font-style: normal;
+font-size: 50px;
+  cursor: pointer;
+}
+.square.active{
+  background-color: #957d50;
+}
